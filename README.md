@@ -1,4 +1,4 @@
-Suivis et création d'une landing page avec apprentissage création / Prototype / intégration d'une maquette Figma.
+Suivi et création d'une landing page avec apprentissage création / Prototype / intégration d'une maquette Figma.
 
 Lien de la vidéo : https://youtu.be/FRaM0v73yjw?si=uCaWFkq5Uj6KcVT0
 
